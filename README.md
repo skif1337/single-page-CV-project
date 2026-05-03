@@ -1,2 +1,2 @@
-# single-page-CV-project
-https://roadmap.sh/projects/single-page-cv
+# This is the repository containing the projects I have done
+### Mainly project ideas are taken from roadmap.sh
